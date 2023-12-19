@@ -8,7 +8,7 @@ public class Client {
     BufferedReader br; // used for reading
     PrintWriter out; // used for writing
 
-    // making of constructor
+    // initializer constructor
     public Client() {
         try {
             System.out.println("Sending request to server");
